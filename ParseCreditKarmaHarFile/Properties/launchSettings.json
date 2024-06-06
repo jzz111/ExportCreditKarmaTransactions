@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParseCreditKarmaHarFile": {
+      "commandName": "Project",
+      "commandLineArgs": "allMintTransactions.har mintTransactions.csv error.json"
+    }
+  }
+}
